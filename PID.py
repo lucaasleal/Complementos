@@ -1,15 +1,3 @@
-# -*- coding: utf-8 -*-
-"""rlc_pid_animado_botoes.py
-
-# 🔌 Simulador RLC + PID — Análise Completa
-**Animação interativa com sliders em tempo real**
-
-- Diagrama Polo-Zero: RLC (malha aberta) vs Malha Fechada com PID
-- Superfície 3D de |V(s)|   ← (antes era |I(s)|)
-- Resposta v(t) em malha aberta (SymPy)  ← (antes era i(t))
-- Simulação PID em tempo real
-"""
-
 import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
